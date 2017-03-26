@@ -119,10 +119,10 @@ footer {
 
 @media only screen and (max-width: 500px) {
 	header{
-		font-size: 2.618em !important;
+		font-size: 3em !important;
 	}
 	article{
-		font-size: 2.618em !important;
+		font-size: 3em !important;
 	}
     h1 {
         font-size: 4.236em !important;
