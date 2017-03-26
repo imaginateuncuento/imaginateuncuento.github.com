@@ -124,6 +124,9 @@ footer {
 	article{
 		font-size: 3em !important;
 	}
+	summary{
+		width: 90% !important;
+	}
     h1 {
         font-size: 4.236em !important;
     }
