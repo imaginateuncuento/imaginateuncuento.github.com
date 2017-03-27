@@ -56,10 +56,15 @@ summary {
 }
 
 summary.about{
-	// font-size: 1.618em;
+	font-size: 2.2em;
+	width: 50%;
 }
 
 footer {
+	font-size: 2em;
+}
+
+footer.about{
 	font-size: 1.618em;
 }
 
